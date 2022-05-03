@@ -29,3 +29,5 @@ More task description can be found here:
   address={New Orleans, LA, United States},
   publisher = {Association for Computational Linguistics}
  } 
+
+The presentation slides are included at: https://docs.google.com/presentation/d/1nv8gyjSLYiNM1qS3a9mRHKmaSBihA1bRlQpDpE4570Y/edit#slide=id.g1277e5635e6_0_25

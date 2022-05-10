@@ -31,5 +31,3 @@ More task description can be found here:
  } 
 
 The presentation slides are included at: https://docs.google.com/presentation/d/1nv8gyjSLYiNM1qS3a9mRHKmaSBihA1bRlQpDpE4570Y/edit#slide=id.g1277e5635e6_0_25
-
-Link to the Final Report: https://docs.google.com/document/d/1he0DAKMmkWdFOrSf_SS1M_0Crb8y2VdumnABBnqvD-Y/edit
